@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "build": 3,
+  "version": "1.3.0",
+  "build": 4,
   "force": true,
   "title": "نسخه جدید منتشر شد",
   "message": "رفع باگ‌ها و اضافه شدن امکانات جدید",
-  "download": "https://github.com/mehdinoorzehi/smart_alarm_releases/releases/download/1.2.0/app-release.apk"
+  "download": "https://github.com/mehdinoorzehi/smart_alarm_releases/releases/download/1.3.0/app-release.apk"
 }
