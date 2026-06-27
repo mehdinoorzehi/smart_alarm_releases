@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "build": 2,
+  "force": true,
+  "title": "نسخه جدید منتشر شد",
+  "message": "رفع باگ‌ها و اضافه شدن امکانات جدید",
+  "download": "https://github.com/mehdinoorzehi/smart_alarm/releases/download/v1.1.0/armmax_v1.1.0.apk"
+}
