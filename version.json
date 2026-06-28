@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "build": 6,
+  "version": "1.6.0",
+  "build": 7,
   "force": true,
-  "title": "نسخه 1.5.0 منتشر شد",
+  "title": "نسخه 1.6.0 منتشر شد",
   "message": "رفع باگ‌ها و اضافه شدن امکانات جدید",
-  "download": "https://github.com/mehdinoorzehi/smart_alarm_releases/releases/download/1.5.0/armmax1.5.0.apk"
+  "download": "https://github.com/mehdinoorzehi/smart_alarm_releases/releases/download/1.6.0/armmax1.6.0.apk"
 }
